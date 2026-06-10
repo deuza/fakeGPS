@@ -185,4 +185,5 @@ exactement sur 0,0.
 
 ## Licence WTFPL
 
+https://www.wtfpl.net/       
 ![WFTPL](https://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
