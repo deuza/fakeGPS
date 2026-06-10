@@ -183,6 +183,6 @@ Le tirage est indépendant à chaque salve (bruit blanc), ce qui suffit à un re
 crédible. Pour Null Island, `JITTER_M=0` est recommandé afin de conserver le point
 exactement sur 0,0.
 
-## Licence
+## Licence WTFPL
 
-!(WFTPL)[https://www.wtfpl.net/]
+![WFTPL](https://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
